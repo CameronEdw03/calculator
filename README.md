@@ -1,12 +1,29 @@
-# React + Vite
+# React Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple calculator app built with **React JS** and styled using **Tailwind CSS**.  
+I created this project to practice and reinforce my React concepts.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Basic calculator functionality (add, subtract, multiply, divide)  
+- Responsive UI designed primarily for desktop use  
+- Styled with Tailwind CSS for quick and modern styling  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Live Demo
+
+You can try the app live here:  
+[https://calculator-ez6314nfk-cam-edwards-projects.vercel.app](https://calculator-ez6314nfk-cam-edwards-projects.vercel.app)
+
+*Note: This calculator is optimized for desktop browsers and may not work well on mobile devices.*
+
+---
+
+## How to Run Locally
+
+1. Clone the repo  
+```bash
+git clone https://github.com/CameronEdw03/calculator.git
